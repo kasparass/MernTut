@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { connect } from 'mongoose';
+import { connect } from 'react-redux';
 import { setAlert } from './alert';
 
 import {
